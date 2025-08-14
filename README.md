@@ -22,7 +22,7 @@
 - :nerd_face: Always eager to `learn and experiment` with new technologies.
 - 💬 Ask me about Go, Linux, Cloud or anything tech-related—I'd love to share!
 - :thinking: Open to exciting `opportunities` in backend development, Cloud and systems programming.
-- Feel free to connect with me on LinkedIn 🏆.[LinkedIn](2www.linkedin.com/in/nikhil-s-a13b5a27) 🏆.
+- Feel free to connect with me on LinkedIn 🏆.[LinkedIn](https://www.linkedin.com/in/nikhil-s-a13b5a272/) 🏆.
 
 <br>
 
@@ -75,7 +75,7 @@
 <h3 align="center" >Connect with me 🤝 </h3>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="www.linkedin.com/in/nikhil-s-a13b5a27">
+        <a   target="_blank" href="https://www.linkedin.com/in/nikhil-s-a13b5a272/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/nikhils74">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
