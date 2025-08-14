@@ -17,7 +17,7 @@
 
 <br>
 
-- 🌱 I'm currently exploring Go with a deep passion for systems programming and backend development.
+- 🌱 I'm currently exploring Go with a deep passion for systems programming and Cloud.
 - :technologist: I enjoy leveraging Linux and software to `solve challenging problems efficiently`.
 - :nerd_face: Always eager to `learn and experiment` with new technologies.
 - 💬 Ask me about Go, Linux, Cloud or anything tech-related—I'd love to share!
