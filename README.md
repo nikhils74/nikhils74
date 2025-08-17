@@ -18,14 +18,15 @@
 <br>
 
 - 🌱 I'm currently exploring Go with a deep passion for systems programming and Cloud.
-- :technologist: I enjoy leveraging Linux and software to `solve challenging problems efficiently`.
-- :nerd_face: Always eager to `learn and experiment` with new technologies.
+- 👨‍💻 I enjoy leveraging Linux and software to `solve challenging problems efficiently`.
+- 🤓 Always eager to `learn and experiment` with new technologies.
 - 💬 Ask me about Go, Linux, Cloud or anything tech-related—I'd love to share!
-- :thinking: Open to exciting `opportunities` in Cloud and systems programming.
-- Feel free to connect with me on LinkedIn 🏆.[LinkedIn](https://www.linkedin.com/in/nikhil-s-a13b5a272/) 🏆.
-- Portfolio .[Portfolio](agreeable-pebble-07632de10.2.azurestaticapps.net) 🏆.
+- 🤔 Open to exciting `opportunities` in Cloud and systems programming.
+- 🏆 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-s-a13b5a272/).
+- 🏆 Check out my [Portfolio](https://agreeable-pebble-07632de10.2.azurestaticapps.net).
 
 <br>
+
 
 
 
